@@ -28,3 +28,5 @@ Here's are the command that it can do for you when you say them:
 "Efron open Duolingo"  
 
 IMPORTANT: If you say something that isn't one of the commands or is said incorrectly then the Assistant will say "Sorry, I cannot do that".
+
+IMPORTANT: In order for it to work, you need to set your language to English(United States).
